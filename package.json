@@ -1,0 +1,29 @@
+{
+  "name": "@sandrinle/card",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SandrineLe/npx-card.git"
+  },
+  "keywords": [
+    "card"
+  ],
+  "author": "sandrinle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SandrineLe/npx-card/issues"
+  },
+  "homepage": "https://github.com/SandrineLe/npx-card#readme",
+  "dependencies": {
+    "boxen": "^5.0.0",
+    "cfonts": "^2.9.1",
+    "chalk": "^4.1.0",
+    "node-emoji": "^1.10.0",
+    "npx": "^3.0.0"
+  }
+}

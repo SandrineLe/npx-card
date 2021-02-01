@@ -15,6 +15,6 @@ __Packages__
 
 ## Download 
 
-`npx sandrinele`
+`npx @sandrinle/card`
 
 Thank you for your time ! 
